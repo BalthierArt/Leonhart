@@ -10,7 +10,7 @@
     "CategoryTags": ["UI"],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "TestingAssemblyVersion": null,
     "IsHide": false,
     "IsTestingExclusive": false,
