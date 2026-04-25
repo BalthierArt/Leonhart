@@ -14,6 +14,7 @@
     "TestingAssemblyVersion": null,
     "IsHide": false,
     "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/BalthierArt/EchoChat/main/icon.png",
     "DownloadLinkInstall": "https://github.com/BalthierArt/EchoChat/releases/download/release/ChatEcho.zip",
     "DownloadLinkUpdate": "https://github.com/BalthierArt/EchoChat/releases/download/release/ChatEcho.zip",
     "DownloadLinkTesting": null
