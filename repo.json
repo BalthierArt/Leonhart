@@ -18,5 +18,25 @@
     "DownloadLinkInstall": "https://github.com/BalthierArt/EchoChat/releases/download/release/ChatEcho.zip",
     "DownloadLinkUpdate": "https://github.com/BalthierArt/EchoChat/releases/download/release/ChatEcho.zip",
     "DownloadLinkTesting": null
+  },
+  {
+    "Author": "leonhart",
+    "Name": "Lodestone",
+    "InternalName": "Lodestone",
+    "Punchline": "A Lodestone-powered event calendar.",
+    "Description": "Shows FFXIV Lodestone events, topics, notices, maintenance, and updates in an in-game calendar with Lodestone images.",
+    "RepoUrl": "https://github.com/BalthierArt/lodestone",
+    "Tags": ["lodestone", "calendar", "events", "maintenance"],
+    "CategoryTags": ["UI"],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": null,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/BalthierArt/lodestone/main/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/BalthierArt/lodestone/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/BalthierArt/lodestone/main/latest.zip",
+    "DownloadLinkTesting": null
   }
 ]
